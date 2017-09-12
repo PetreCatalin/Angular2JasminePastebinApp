@@ -1,0 +1,2 @@
+# Angular2JasminePastebinApp
+Angular2 JasmineTesting PastebinApp
